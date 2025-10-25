@@ -16,34 +16,41 @@
 
 <br>
 
-## 👨‍💻 About Me
+<!-- Typing Animation -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Redux+%7C+.Net+Expert+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9C%A8;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing SVG" />
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="justify">
-        Hi there 👋 I'm <b>Aflah KM</b> — a passionate <b>Full Stack Developer</b> who loves turning ideas into seamless digital experiences.  
-        I specialize in building interactive, scalable, and user-friendly web applications using modern technologies like <b>React</b> and <b>ASP.NET Core</b> 
-      </p>
-      <h4>💡 What I Build:</h4>
-      <ul>
-        <li>🚀 Full-stack web apps with clean architecture</li>
-        <li>🧠 RESTful APIs & secure backend systems</li>
-        <li>🎨 Modern and responsive frontends using React + Tailwind</li>
-        <li>⚙️ Scalable databases with  SQL Server</li>
-        <li>🌍 Real-world solutions for users & businesses</li>
-      </ul>
-      <p><strong>📚 Always learning, always improving.</strong></p>
-      <p>Let’s collaborate and build something amazing! 🚀</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
-      <br>
-      <em>“Code is poetry written in logic.”</em>
-    </td>
-  </tr>
-</table>
+</p>
 
+
+<br/>
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+```javascript
+const aflah = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+    askMeAbout: ["web dev", "frontend", "backend", "UI/UX design"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"]
+        },
+        database: ["MongoDB"],
+        devOps: ["Vercel", "GitHub"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building dynamic full-stack web applications",
+    funFact: "I turn coffee ☕ into clean, reusable code 💻"
+};
+```
 <br>
 
 ## 🛠️ Skills & Tools
