@@ -134,4 +134,3 @@ const aflah = {
 <sub>⚡ Powered by passion, fueled by curiosity | Made with ❤️ by Aflah KM </sub>
 </div>
 
-
