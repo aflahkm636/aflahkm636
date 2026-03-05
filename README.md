@@ -32,23 +32,41 @@
 
 ```javascript
 const aflah = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "React", "Node.js", "HTML", "CSS"],
-    askMeAbout: ["web dev", "frontend", "backend", "UI/UX design"],
+    pronouns: "He/Him",
+    role: "Full Stack Developer",
+
+    code: ["C#", "JavaScript", "SQL", "HTML", "CSS"],
+
+    askMeAbout: [
+        "ASP.NET Core",
+        ".NET Web API",
+        "React",
+        "Database Design",
+        "REST API Development"
+    ],
+
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind CSS", "Bootstrap"]
         },
+
         backEnd: {
-            js: ["Node.js", "Express"]
+            languages: ["C#"],
+            frameworks: ["ASP.NET Core", "ASP.NET MVC"],
+            orm: ["Entity Framework Core", "Dapper"]
         },
-        database: ["MongoDB"],
-        devOps: ["Vercel", "GitHub"],
-        tools: ["VS Code", "Postman", "Figma"]
+
+        database: ["SQL Server"],
+
+        devOps: ["Git", "GitHub", "Vercel", "Render","Azure"],
+
+        tools: ["Visual Studio", "VS Code", "SQL Server Management Studio","Antigravity"]
     },
-    currentFocus: "Building dynamic full-stack web applications",
-    funFact: "I turn coffee ☕ into clean, reusable code 💻"
+
+    currentFocus: "Building scalable web applications using .NET Core, React, and SQL Server",
+
+    funFact: "I enjoy turning complex business workflows into clean APIs and reliable systems."
 };
 ```
 <br>
