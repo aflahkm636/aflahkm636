@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/aflah-kayalmadathil-6444b9331/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:aflahkm007@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
-  <a href="https://aflahkm636.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://aflahkm.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/aflahkm636"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&style=for-the-badge"/></a>
 </div>
 
@@ -77,28 +77,32 @@ const aflah = {
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55" /><br><b>React</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" /><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br><b>Redux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind</b></td>
   </tr>
+
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="55" /><br><b>C#</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>ASP.NET Core</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br><b>Node.js</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="55"/><br><b>C#</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br><b>ASP.NET Core</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="55"/><br><b>Visual Studio</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><b>Bootstrap</b></td>
   </tr>
+
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="55" /><br><b>NPM</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="55"/><br><b>NPM</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b></td>
   </tr>
+
+ 
 </table>
 
 </div>
